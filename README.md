@@ -24,7 +24,7 @@ A detailed Excel-based analysis of the Consumer Price Index (CPI) data to identi
 - Data Cleaning & Analysis
 - Trend Analysis & Visualization
 
-![CPI Trend Chart](/CPI_chart.png)
+
 
 ---
 
@@ -44,7 +44,7 @@ Performed exploratory data analysis (EDA) and statistical analysis on phone data
 - Data Cleaning & EDA
 - Statistical Analysis & Visualization
 
-![Phone Sales Chart](/phone_sales_chart.png)
+
 
 ---
 
@@ -64,7 +64,7 @@ Performed comprehensive exploratory and statistical analysis on Superstore sales
 - Data Cleaning & Analysis
 - Pivot Tables, Charts & Statistical Analysis
 
-![Superstore Sales Dashboard](/superstore_dashboard.png)
+
 
 ---
 
@@ -84,4 +84,3 @@ Developed an interactive Power BI dashboard to analyze e-commerce orders, track 
 - Data Visualization & Dashboarding
 - KPI Analysis & Business Insights
 
-![E-commerce Dashboard Screenshot](/ecommerce_dashboard.png)
