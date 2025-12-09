@@ -1,2 +1,2 @@
 # data-analytics-projects
-Excel, SQL, Python, EDA & Statistics and Power BI
+Excel,  Python, EDA & Statistics and Power BI
